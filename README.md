@@ -4,7 +4,7 @@ This repository contains the implementation and reproduction of the findings fro
 According to the paper, with the trajectory of collected input-output data, along with the upper bound on the system's order, future input-output data can be calculated with Hankel matrix. This work also proved the recursive feasibility and exponential stability of the method.
 
 ## Code Reference
-The code in this repository is heavily inspired by the work of [shiivashaakeri], which can be found at [(https://github.com/shiivashaakeri/Data-Driven-Model-Predictive-Control-MPC-with-Stability-and-Robustness-Guarantees)]. We have made modifications according to the original paper of this project and to ensure compatibility with Matlab.
+The code in this repository is heavily inspired by the work of [[shiivashaakeri](https://github.com/shiivashaakeri)], which can be found at [(https://github.com/shiivashaakeri/Data-Driven-Model-Predictive-Control-MPC-with-Stability-and-Robustness-Guarantees)]. We have made modifications according to the original paper of this project and to ensure compatibility with Matlab.
 
 ## Implementation Files
 This repository contains the following matlab scripts:
