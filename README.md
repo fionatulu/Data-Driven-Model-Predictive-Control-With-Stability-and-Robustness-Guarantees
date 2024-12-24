@@ -13,7 +13,7 @@ This repository contains the following matlab scripts:
 - robust_mpc.m: The main script implementing the robust data-driven MPC algorithm.
 Moreover, the experiment is applied to the four tank system, the system file is set as defined in the original paper. The definition file is:
 - tank_sys2.mat: four tank system file.
-<img src="[https://github.com/yourusername/yourrepository/blob/main/images/logo.png](https://github.com/fionatulu/Data-Driven-Model-Predictive-Control-With-Stability-and-Robustness-Guarantees/blob/main/result.png)" alt="Result" title="Experiment Result" width="70"/>
+<img src="https://github.com/fionatulu/Data-Driven-Model-Predictive-Control-With-Stability-and-Robustness-Guarantees/blob/main/result.png" alt="Result" title="Experiment Result" width="70"/>
 
 ## Citing this work
 J. Berberich, J. Köhler, M. A. Müller and F. Allgöwer, "Data-Driven Model Predictive Control With Stability and Robustness Guarantees," in IEEE Transactions on Automatic Control, vol. 66, no. 4, pp. 1702-1717, April 2021, doi: 10.1109/TAC.2020.3000182.
